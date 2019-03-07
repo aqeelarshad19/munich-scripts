@@ -1,0 +1,59 @@
+2018-10-10 10:21:42,027 INFO:Starting new HTTPS connection (1): www46.muenchen.de
+2018-10-10 10:21:43,853 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 302 0
+2018-10-10 10:21:45,158 DEBUG:"GET /termin/?1=1 HTTP/1.1" 200 None
+2018-10-10 10:21:51,234 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 200 None
+2018-10-10 10:21:51,251 INFO:Appiontments availble:['11:35']
+2018-10-10 10:21:51,255 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:51,810 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:51,816 INFO:Appiontments availble:['07:35', '07:40', '07:45', '07:50', '07:55', '08:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25']
+2018-10-10 10:21:51,821 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:52,477 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:52,483 INFO:Appiontments availble:['09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25', '14:00', '14:05', '14:10', '14:15', '14:20', '14:25', '14:30', '14:35', '14:40', '14:45', '14:50', '14:55', '15:00', '15:05', '15:10', '15:15', '15:20', '15:25', '15:30', '15:35', '15:40', '15:45', '15:50', '15:55', '16:00', '16:05', '16:10', '16:15', '16:20', '16:25', '16:30', '16:35', '16:40', '16:45', '16:50', '16:55', '17:00', '17:05', '17:10', '17:15', '17:20', '17:25']
+2018-10-10 10:21:52,489 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:53,676 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:53,680 INFO:Appiontments availble:['08:35', '08:40', '08:45', '08:50', '08:55', '09:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25', '11:30', '11:35', '11:40', '13:00', '13:05', '13:10', '13:15', '13:20', '13:25', '13:30', '13:35', '13:40', '13:45', '13:50', '13:55', '14:00', '14:05', '14:10', '14:15', '14:20', '14:25']
+2018-10-10 10:21:53,685 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:54,362 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:54,367 INFO:Appiontments availble:['07:35', '07:40', '07:45', '07:50', '07:55', '08:00', '08:05', '08:10', '08:15', '08:20', '08:25', '08:30', '08:35', '08:40', '08:45', '08:50', '08:55', '09:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25']
+2018-10-10 10:21:54,372 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:55,180 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:55,184 INFO:Appiontments availble:['07:35', '07:40', '07:45', '07:50', '07:55', '08:00', '08:05', '08:10', '08:15', '08:20', '08:25', '08:30', '08:35', '08:40', '08:45', '08:50', '08:55', '09:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25']
+2018-10-10 10:21:55,188 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:56,001 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:56,005 INFO:Appiontments availble:['08:35', '08:40', '08:45', '08:50', '08:55', '09:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25', '14:00', '14:05', '14:10']
+2018-10-10 10:21:56,011 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:56,629 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:56,633 INFO:Appiontments availble:['08:35', '08:40', '08:45', '08:50', '08:55', '09:00', '09:05', '09:10', '09:15', '09:20', '09:25', '09:30', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55', '11:00', '11:05', '11:10', '11:15', '11:20', '11:25', '11:30', '11:35', '11:40']
+2018-10-10 10:21:56,637 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:57,433 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:57,437 INFO:Appiontments availble:['07:35', '07:40', '07:45', '07:50', '07:55', '08:00', '09:35', '09:40', '09:45', '09:50', '09:55', '10:00', '10:05', '10:10', '10:15', '10:20', '10:25', '10:30', '10:35', '10:40', '10:45', '10:50', '10:55']
+2018-10-10 10:21:57,442 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:58,234 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:58,238 INFO:Appiontments availble:['14:15', '14:20', '14:25']
+2018-10-10 10:21:58,246 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:59,324 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:59,330 INFO:Appiontments availble:['11:10', '11:15', '11:20', '11:25']
+2018-10-10 10:21:59,334 INFO:Starting new HTTPS connection (1): maker.ifttt.com
+2018-10-10 10:21:59,863 DEBUG:"POST /trigger/test_event/with/key/lE7pHd8h0YyroKo-Qi3z63lQixkuWD8usQJ5bcpXldY HTTP/1.1" 200 50
+2018-10-10 10:21:59,867 INFO:Sleeping for 5 mins...
+2019-03-07 16:14:12,623 INFO:Starting new HTTPS connection (1): www46.muenchen.de
+2019-03-07 16:14:13,084 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 302 0
+2019-03-07 16:14:14,440 DEBUG:"GET /termin/?1=1 HTTP/1.1" 200 None
+2019-03-07 16:14:17,663 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 200 None
+2019-03-07 16:14:17,668 INFO:Sleeping for 5 mins...
+2019-03-07 16:15:47,448 INFO:Starting new HTTPS connection (1): www46.muenchen.de
+2019-03-07 16:15:47,885 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 302 0
+2019-03-07 16:15:49,341 DEBUG:"GET /termin/?1=1 HTTP/1.1" 200 None
+2019-03-07 16:15:54,321 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 200 None
+2019-03-07 16:15:54,326 INFO:Sleeping for 5 mins...
+2019-03-07 16:17:09,926 INFO:Starting new HTTPS connection (1): www46.muenchen.de
+2019-03-07 16:17:10,439 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 302 0
+2019-03-07 16:17:12,142 DEBUG:"GET /termin/?1=1 HTTP/1.1" 200 None
+2019-03-07 16:17:15,299 DEBUG:"POST /termin/index.php?cts=1080805 HTTP/1.1" 200 None
+2019-03-07 16:17:15,307 INFO:Sleeping for 5 mins...
+2019-03-07 16:51:26,292 INFO:Starting new HTTPS connection (1): www17.muenchen.de
+2019-03-07 16:51:26,430 DEBUG:"POST /EATWebSearch/Auskunft HTTP/1.1" 200 None
+2019-03-07 16:51:28,533 DEBUG:"POST /EATWebSearch/Auskunft HTTP/1.1" 200 None
+2019-03-07 16:54:09,379 INFO:Starting new HTTPS connection (1): www17.muenchen.de
+2019-03-07 16:54:09,527 DEBUG:"POST /EATWebSearch/Auskunft HTTP/1.1" 200 None
+2019-03-07 16:54:11,628 DEBUG:"POST /EATWebSearch/Auskunft HTTP/1.1" 200 None
