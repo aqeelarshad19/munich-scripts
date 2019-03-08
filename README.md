@@ -2,7 +2,7 @@
 Some useful scripts simplifying bureaucracy, especially when living in Munich, Germany.
 
 # termin.py
-Small tool to show availability of appointments related to driver licenses such as foreign driver license exchange, EU driver license exchange and many others.
+Small tool to show availability of appointments for Niederlassungserlaubnis mit Blauer Karte EU.
 
 ~~Source of the data - https://www22.muenchen.de/termin/index.php?loc=FS&ct=1071898~~
 
