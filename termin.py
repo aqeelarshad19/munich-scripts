@@ -12,9 +12,7 @@ def write_response_to_log(txt):
     with open('log.txt', 'w', encoding='utf-8') as f:
         f.write(txt)
 
-
-#def get_termins(termin_type='FS Umschreibung Ausländischer FS'):
-def check_if_card_available(tracking_Number='Y0H0TLY06'):
+def check_if_card_available(tracking_Number):
     """
     Get the status of the availabality for the card by performing a POST request
     :param: Tracking number 
@@ -27,7 +25,6 @@ def check_if_card_available(tracking_Number='Y0H0TLY06'):
     session = requests.Session()
 #     print(session.cookies)
     response = session.post(url, data=post_data )
-    # session.get(url)
 #     print(session.cookies)
 #     print(session.cookies.get_dict())
     
@@ -35,14 +32,13 @@ def check_if_card_available(tracking_Number='Y0H0TLY06'):
     response = session.post(url, data=post_data , cookies=session.cookies)
     # response = requests.request("POST", url, data=payload, headers=headers, params=querystring)
 #     print(response.text)
-
 #     print(response)
+
     txt = response.text
     if 'liegt noch nicht zur Abholung bereit' in txt:
        print('Not Yet Availble')
     else:
        print('Seems like its available')
-    #print (txt)	
 	
 def get_termins(termin_type='Niederlassungserlaubnis Blaue Karte EU'):
     """

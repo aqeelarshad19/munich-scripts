@@ -7,7 +7,13 @@ Small tool to show availability of appointments related to driver licenses such 
 ~~Source of the data - https://www22.muenchen.de/termin/index.php?loc=FS&ct=1071898~~
 
 Source of the data - https://www46.muenchen.de/termin/index.php?cts=1080805 (For Niederlassungserlaubnis mit Blauer Karte EU)
-Also Add your ""IFTTT API Key"""
+Also Add your ***IFTTT API Key***
+
+```sh
+
+```
+    ifttt_webhook_url = 'https://maker.ifttt.com/trigger/test_event/with/key/{ADD_YOUR_KEY_HERE}'
+
 
 ```sh
 $ python3 termin.py
