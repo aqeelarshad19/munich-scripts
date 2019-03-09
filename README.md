@@ -7,7 +7,7 @@ Small tool to show availability of appointments for Niederlassungserlaubnis mit 
 ~~Source of the data - https://www22.muenchen.de/termin/index.php?loc=FS&ct=1071898~~
 
 Source of the data - https://www46.muenchen.de/termin/index.php?cts=1080805 (For Niederlassungserlaubnis mit Blauer Karte EU)
-<<<<<<< HEAD
+
 Also Add your ***IFTTT API Key***
 
 ```sh
@@ -15,10 +15,6 @@ Also Add your ***IFTTT API Key***
 ```
     ifttt_webhook_url = 'https://maker.ifttt.com/trigger/test_event/with/key/{ADD_YOUR_KEY_HERE}'
 
-=======
-
-Also Add your ""IFTTT API Key"""
->>>>>>> d5963743603a5714081dc80affe5a9c92bdac84d
 
 ```sh
 $ python3 termin.py
